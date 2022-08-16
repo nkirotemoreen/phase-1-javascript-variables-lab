@@ -25,7 +25,7 @@ describe('index.js', function () {
   });
 
   describe('companyCeo', function () {
-    it('is declared as equal to Susan Smith', function () {
+    it('is declared as equal to Susan Smitleth', function () {
       expect(companyCeo).to.equal('Susan Smith');
     });
 
